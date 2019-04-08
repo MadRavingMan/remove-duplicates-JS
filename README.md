@@ -1,1 +1,1 @@
-# remove-duplicates-JS
+# remove_duplicates_from_array_JS
